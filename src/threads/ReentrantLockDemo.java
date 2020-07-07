@@ -1,8 +1,5 @@
 package threads;
 
-import org.omg.CORBA.PRIVATE_MEMBER;
-
-import javax.xml.stream.FactoryConfigurationError;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 

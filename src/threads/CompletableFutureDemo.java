@@ -1,7 +1,5 @@
 package threads;
 
-import com.sun.org.apache.bcel.internal.generic.F2D;
-
 import java.util.concurrent.CompletableFuture;
 
 /**
